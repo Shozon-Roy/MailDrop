@@ -4,7 +4,7 @@ MailDrop is a temporary email generator website designed for quick, anonymous em
 
 > **Live Demo:** [https://promaildrop.vercel.app/](https://promaildrop.vercel.app/)
 
-![Feature Preview](#)
+![Feature Preview](https://raw.githubusercontent.com/Shozon-Roy/MailDrop/refs/heads/main/20250901_145124.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ MailDrop is a sleek, privacy-focused temporary email generator that allows users
 
 ## 👤 Author
 
-Made with ❤️ by [Shozon Roy](https://github.com/ShozonRoy)
+Made with ❤️ by [Shozon Roy](https://github.com/Shozon-Roy)
 
 ---
 
